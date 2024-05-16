@@ -1,0 +1,15 @@
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\bin\Debug\net6.0\SDKnowledgeCheck2.exe
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\bin\Debug\net6.0\SDKnowledgeCheck2.deps.json
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\bin\Debug\net6.0\SDKnowledgeCheck2.runtimeconfig.json
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\bin\Debug\net6.0\SDKnowledgeCheck2.dll
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\bin\Debug\net6.0\SDKnowledgeCheck2.pdb
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\obj\Debug\net6.0\SDKnowledgeCheck2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\obj\Debug\net6.0\SDKnowledgeCheck2.AssemblyInfoInputs.cache
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\obj\Debug\net6.0\SDKnowledgeCheck2.AssemblyInfo.cs
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\obj\Debug\net6.0\SDKnowledgeCheck2.csproj.CoreCompileInputs.cache
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\obj\Debug\net6.0\SDKnowledgeCheck2.sourcelink.json
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\obj\Debug\net6.0\SDKnowledgeCheck2.dll
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\obj\Debug\net6.0\refint\SDKnowledgeCheck2.dll
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\obj\Debug\net6.0\SDKnowledgeCheck2.pdb
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\obj\Debug\net6.0\SDKnowledgeCheck2.genruntimeconfig.cache
+C:\Users\brent\OneDrive\Documents\Csharp\SDKnowledgeCheck2\SDKnowledgeCheck2\SDKnowledgeCheck2\obj\Debug\net6.0\ref\SDKnowledgeCheck2.dll
